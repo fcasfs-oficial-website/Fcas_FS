@@ -1,13 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 	<head>
-<title>Francisco Sales Produções: User(Francisco Sales)</title>
-
-
-  <link href="http://www.franciscosalesprodues.yolasite.com/resources/Fcas icon FS.ico" rel="shortcut icon" type="image/x-icon" />
-  <link href="http://www.franciscosalesprodues.yolasite.com/resources/Fcas icon FS.ico" rel="icon" type="image/x-icon" />
-
-
 <body oncontextmenu='return false;' onselectstart='return false' ondragstart='return false'/>
 <style type="text/css">
 .flipswitch {
@@ -1295,7 +1287,7 @@ input[type=range]:focus::-ms-fill-upper {
 <div class="modalDialog" id="users/myInfo">
     <div>	<a href="#" title="Close" class="close">X</a>
     <h2>User</h2>
-    <p>Servidor de Francisco Sales Produções:</p>
+    <p>Servidor de Francisco Sales ProduÃ§Ãµes:</p>
     <p>Nome:	 Francisco Sales<br/>UserName:	 admin<br/>Text:	 FCAS|FS<br/>Enable Server:	 true<br/>User:	 admin, Download, Favorite, Files<br/>Armazenamento:	 980TB </p>
    </div>
 </div>
@@ -1314,8 +1306,8 @@ input[type=range]:focus::-ms-fill-upper {
      <ul class="ulx">
         <li class="dropdown"><a class="dropbtn" target="_blank" href="http://www.franciscosalesprodues.yolasite.com/server.php#page/DOWNLOADS/index.shtml?files">DOWNLOADS</a></li>
         <li class="dropdown"><a class="dropbtn" target="_blank" href="http://www.franciscosalesprodues.yolasite.com/resources/live.shtml">LIVE</a></li>
-  <li class="dropdown" style="float:right"><a class="dropbtn" title='Notificação' href="#Notification.html">Notification</a></li>
-        <li class="dropdown" style="float:right"><a title='Configuração' class="dropbtn" href="#Configuration">Configuration</a></li>
+  <li class="dropdown" style="float:right"><a class="dropbtn" title='NotificaÃ§Ã£o' href="#Notification.html">Notification</a></li>
+        <li class="dropdown" style="float:right"><a title='ConfiguraÃ§Ã£o' class="dropbtn" href="#Configuration">Configuration</a></li>
 </ul>
      <ul class="ulx">
         <li class="dropdown"" style="float:center"><a class="dropbtn" target="_blank" href="http://www.franciscosalesprodues.yolasite.com/media-player.php">Media Player</a></li>
@@ -1329,16 +1321,16 @@ input[type=range]:focus::-ms-fill-upper {
 <div class="warning">
 <span style="margin-bottom: 12px; font-size: 14px">Usado: </span><progress value="8" max="100"></progress><span style="color: #00529B;">  8%</span></div>
 <br/><br/>
-<div><font class="ws14" face="Default">Arquivos Publicado pelo Administrador, estão Listados Abaixo:</font></div>
+<div><font class="ws14" face="Default">Arquivos Publicado pelo Administrador, estÃ£o Listados Abaixo:</font></div>
 <div><font class="ws14" face="Default"><BR></font></div>
 </div>
 <select name="" disabled size="8">
-  <option>Francisco Sales Produções RUNTIME v4.5.fcas_fs</option>
-  <option>Player - Francisco Sales Produções.run</option>
-  <option>FranciscoSalesProduções.lmd</option>
-  <option>FranciscoSalesProduções-MediaPlayer.lmd</option>
-  <option>Francisco Sales Produções Runtime.run</option>
-  <option>Francisco Sales Produções.cer</option>
+  <option>Francisco Sales ProduÃ§Ãµes RUNTIME v4.5.fcas_fs</option>
+  <option>Player - Francisco Sales ProduÃ§Ãµes.run</option>
+  <option>FranciscoSalesProduÃ§Ãµes.lmd</option>
+  <option>FranciscoSalesProduÃ§Ãµes-MediaPlayer.lmd</option>
+  <option>Francisco Sales ProduÃ§Ãµes Runtime.run</option>
+  <option>Francisco Sales ProduÃ§Ãµes.cer</option>
   <option>FCASdrive.sys.fcas_fs</option>
   <option>FCASdrive.cat.fcas_fs</option>
 </select>
